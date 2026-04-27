@@ -38,6 +38,7 @@ texture = ExtResource("4_3etjf")
 
 [node name="Background" type="Sprite3D" parent="." unique_id=773770735]
 axis = 1
+render_priority = -1
 texture = ExtResource("5_k0bwg")
 
 [node name="Area3D" type="Area3D" parent="." unique_id=641114604]

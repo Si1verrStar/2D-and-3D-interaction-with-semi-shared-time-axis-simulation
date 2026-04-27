@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cadimcbtmsrle"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_sbqb6"]
+radius = 1.0
+
+[node name="Node3D" type="StaticBody3D" unique_id=76592440]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=1978697161]
+shape = SubResource("SphereShape3D_sbqb6")
