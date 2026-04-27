@@ -8,16 +8,20 @@
 [node name="Node3D" type="Node3D" unique_id=1738390229]
 
 [node name="Frame1" type="Sprite3D" parent="." unique_id=317225639]
+axis = 1
 texture = ExtResource("1_3g0m6")
 
 [node name="Frame2" type="Sprite3D" parent="." unique_id=872117186]
 visible = false
+axis = 1
 texture = ExtResource("2_s1t04")
 
 [node name="Frame3" type="Sprite3D" parent="." unique_id=2147375636]
 visible = false
+axis = 1
 texture = ExtResource("3_3v2tt")
 
 [node name="Frame4" type="Sprite3D" parent="." unique_id=1957275590]
 visible = false
+axis = 1
 texture = ExtResource("4_3wg5r")
